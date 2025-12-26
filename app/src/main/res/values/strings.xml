@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Моя Бібліотека</string>
+    <string name="home">Популярні</string>
+    <string name="upcoming">Новинки</string>
+    <string name="wishlist">Хочу прочитати</string>
+    <string name="about">Про додаток</string>
+</resources>
